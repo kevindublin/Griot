@@ -16,8 +16,8 @@ Griot Markup Language allows writers to include tags which automatically add sou
 
 | Tag        | Action                 |
 | ---------- | ---------------------- |
-| <rain>     | few seconds of rain    |
-| <thunder>  | few seconds of thunder |
+| <\rain>     | few seconds of rain    |
+| <\thunder>  | few seconds of thunder |
 
 ### Software Stack
 

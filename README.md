@@ -14,6 +14,11 @@ Development begain in Spring 2020.
 
 Griot Markup Language allows writers to include tags which automatically add sound effects or guide the software to speak a certain word or phrase in a specific manner.
 
+| Tag        | Action                 |
+| ---------- | ---------------------- |
+| <rain>     | few seconds of rain    |
+| <thunder>  | few seconds of thunder |
+
 ### Software Stack
 
 * Python

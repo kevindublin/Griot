@@ -6,7 +6,7 @@ Griot is an automated audio book, radio play, and guided meditation generator by
 
 ### Current Status
 
-Development begain in Spring 2020.
+Development began in Spring 2020.
 
 ### Features
 
@@ -16,8 +16,8 @@ Griot Markup Language allows writers to include tags which automatically add sou
 
 | Tag        | Action                 |
 | ---------- | ---------------------- |
-| <\rain>     | few seconds of rain    |
-| <\thunder>  | few seconds of thunder |
+| \<rain>     | few seconds of rain    |
+| \<thunder>  | few seconds of thunder |
 
 ### Software Stack
 

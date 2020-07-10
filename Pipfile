@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-bootstrap4 = "*"
+django-heroku = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+whitenoise = "*"
+django-allauth = "*"
+django-anymail = {extras = ["mailgun"],version = "*"}
+python-decouple = "*"
+
+[dev-packages]
+django-debug-toolbar = "*"
+
